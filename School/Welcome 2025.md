@@ -35,7 +35,4 @@ Registration opens March 24th
 Can MOSTLY be done online, will likely have zoom classes, and a few will be face to face.
 Every Semester there will need to be a semester plan metting with advisor, mandetory.
 
-Homework
-```tasks
 
-```
