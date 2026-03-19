@@ -1,0 +1,14 @@
+- [ ] Register for CSC175 W1 🔺 ➕ 2026-03-17 📅 2026-03-24
+- [ ] Register for MTH111 W 🔺 ➕ 2026-03-17 📅 2026-03-24 
+- [ ] Register for CYB101 ⏫ ➕ 2026-03-17 📅 2026-03-24 
+- [x] 
+- [x] Section 4.2 #testout ✅ 2026-03-18
+- [x] Section 12.1 #testout ✅ 2026-03-18
+- [x] Section 19.3 #testout ✅ 2026-03-18
+- [ ] Section 19.4 #testout
+- [ ] Section 20.3 #testout
+- [ ] Renew the Henry Ford thing 🔼 📅 2026-03-30
+- [ ] Henry Ford ReNew 📅 2026-03-30
+- [ ] Pay Taxes ⏫ 📅 2026-04-15
+- [ ] Renew Truck Tabs 🔺 📅 2026-05-13
+- [ ] Renew Drivers License 📅 2026-05-13
