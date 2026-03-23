@@ -5,10 +5,15 @@
 - [x] Section 4.2 #testout ✅ 2026-03-18
 - [x] Section 12.1 #testout ✅ 2026-03-18
 - [x] Section 19.3 #testout ✅ 2026-03-18
-- [ ] Section 19.4 #testout
-- [ ] Section 20.3 #testout
+- [x] Section 19.4 #testout ✅ 2026-03-22
+- [x] Section 20.3 #testout ✅ 2026-03-22
 - [ ] Renew the Henry Ford thing 🔼 📅 2026-03-30
 - [ ] Henry Ford ReNew 📅 2026-03-30
 - [ ] Pay Taxes ⏫ 📅 2026-04-15
-- [ ] Renew Truck Tabs 🔺 📅 2026-05-13
-- [ ] Renew Drivers License 📅 2026-05-13
+- [x] Renew Truck Tabs 🔺 📅 2026-05-13 ✅ 2026-03-20
+- [x] Renew Drivers License 📅 2026-05-13 ✅ 2026-03-20
+- [ ] DL and Tabs Arrival #parcel 📅 2026-05-13
+- [ ] Schedule Pass Port to get done ⏫ 📅 2027-01-14
+- [ ] Buy a new Wyze Battery #shopping 🔼 ➕ 2026-03-21
+- [ ] Buy a new Fitbit for mom #shopping ⏫ 📅 2026-05-13
+- [ ] Stop Renewal of Justin Guitar ⏫ 📅 2027-03-20

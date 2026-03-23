@@ -1,8 +1,14 @@
 # Urgent Tasks
 ```tasks
 not done
-(due brefore next week)
+(due before next week) OR (created before last month)
 sort by due
+short mode
+```
+
+### Tracking
+```tasks
+tags include #parcel
 short mode
 ```
 ## [[MTH 111]]
